@@ -10,7 +10,8 @@ Anela	Takiguchi,	Mtakiguc
 Andrea	Alave,	aalave	
 Breanna	Jaigua,	bjaigua	
 Rainah	Allen,	rallen28	
-Email:  acao
+Email:  acao8@u.rochester.edu, aalave@u.rochester.edu, allenrainah@gmail.com,  mtakiguc@u.rochester.edu
+
 
 
 Assignment/Project #: COURSE PROJECT - Binding Bugs
